@@ -1,0 +1,19 @@
+{
+	"params" : {
+		"drivers" : [
+			{
+				"name" : "ant_drivers",
+				"type" : "serial",
+				"filename" : "antDrivers.js",
+				"interfaces" : [
+					{
+						"name" : "ant",
+						"type" : "ant",
+						"port" : "/dev/ttyUSB0",
+						"rate" : 115200
+					}				
+				]
+			}
+		]
+	}
+}
