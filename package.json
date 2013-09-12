@@ -1,4 +1,4 @@
-{ "name": "webinos-ant-drivers"
+{ "name": "webinos-driver-ant"
 , "publishConfig": { "tag": "alpha" }
 , "description": "Ant Fitness drivers"
 , "keywords": [ "webinos", "ant","driver"]
